@@ -1,1 +1,2 @@
 This is FileC.txt
+Modified FileC.txt from github portal in the master branch
