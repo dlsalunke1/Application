@@ -1,3 +1,2 @@
 This is FileB
-Updated FileB.txt
-Squash Merge
+This is for Squash Merge
